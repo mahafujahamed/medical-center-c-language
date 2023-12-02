@@ -1,0 +1,6 @@
+arpon 221 napa 5 Cash 10.000000
+atique 222 paracetamol 3 12.0000
+Salakin 223 Monas 6 96.00000
+Mirajul 224 Seclo 10 40.0000
+Mirajul 221-15-4893 Monteculast-10mg 2-packets Cash 160tk
+
